@@ -1,0 +1,118 @@
+--ROLE CREATION
+--Mountain View
+CREATE ROLE MV_MANAGER;
+CREATE ROLE MV_OFFICER_EMPLOYEE;
+CREATE ROLE MV_MAINTENANCE_EMPLOYEE;
+--Sunny Beach
+CREATE ROLE SB_MANAGER;
+CREATE ROLE SB_OFFICER_EMPLOYEE;
+CREATE ROLE SB_MAINTENANCE_EMPLOYEE;
+
+--Forest Retreat
+CREATE ROLE FR_MANAGER;
+CREATE ROLE FR_OFFICER_EMPLOYEE;
+CREATE ROLE FR_MAINTENANCE_EMPLOYEE;
+
+--Lake Paradise
+CREATE ROLE LP_MANAGER;
+CREATE ROLE LP_OFFICER_EMPLOYEE;
+CREATE ROLE LP_MAINTENANCE_EMPLOYEE;
+
+CREATE ROLE ELECTRICAL_LEADER;
+CREATE ROLE PLUMBER_LEADER;
+CREATE ROLE SECURITY_LEADER;
+CREATE ROLE ELECTRICAL_WORKER;
+CREATE ROLE PLUMBER_WORKER;
+CREATE ROLE SECURITY_WORKER;
+
+--PRIVILEGES TO ROLES
+--Policy 1-2
+GRANT select,insert,update,delete ON mountain_view_user_list TO MV_MANAGER WITH ADMIN OPTION;
+GRANT select,insert,update,delete ON mountain_view_contracts_list TO MV_MANAGER WITH ADMIN OPTION;
+GRANT select,insert,update,delete ON mountain_view_history_list TO MV_MANAGER WITH ADMIN OPTION;
+GRANT select,insert,update,delete ON buildings TO MV_MANAGER WITH ADMIN OPTION;
+
+GRANT select,insert, update,delete ON sunny_beach_user_list TO SB_MANAGER WITH ADMIN OPTION;
+GRANT select,insert, update,delete ON sunny_beach_contracts_list TO SB_MANAGER WITH ADMIN OPTION;
+GRANT select,insert, update,delete ON sunny_beach_history_list TO SB_MANAGER WITH ADMIN OPTION;
+GRANT select,insert,update,delete ON buildings TO SB_MANAGER WITH ADMIN OPTION;
+
+--Policy 3
+GRANT select ON MV_employee_customer_list TO MV_OFFICER_EMPLOYEE;
+GRANT select ON SB_employee_customer_list TO SB_OFFICER_EMPLOYEE;
+
+--Policy 4
+GRANT select,insert,update,delete ON mountain_view_contracts_list TO MV_OFFICER_EMPLOYEE;
+GRANT select,insert,update,delete ON sunny_beach_contracts_list TO SB_OFFICER_EMPLOYEE;
+
+--Policy 5
+GRANT select,insert,update,delete ON SB_employee_worker_list TO SB_MAINTENANCE_EMPLOYEE;
+GRANT select,insert,update,delete ON LP_employee_worker_list TO LP_MAINTENANCE_EMPLOYEE;
+
+--Policy 6
+GRANT select,insert,update,delete ON sunny_beach_history_list TO SB_MAINTENANCE_EMPLOYEE;
+GRANT select,insert,update,delete ON lake_paradise_history_list TO LP_MAINTENANCE_EMPLOYEE;
+
+--Policy 7
+GRANT select, insert, update ON electric_maintenance TO ELECTRICAL_LEADER;
+GRANT select, insert, update ON plumber_maintenance TO PLUMBER_LEADER;
+
+--Policy 8
+GRANT select, insert, update ON worker_electric_maintenance TO ELECTRICAL_WORKER;
+
+--GRANTING ROLES
+GRANT MV_MANAGER TO jdoe;
+GRANT SB_MANAGER TO gstone;
+
+GRANT MV_OFFICER_EMPLOYEE TO lgreen;
+GRANT SB_OFFICER_EMPLOYEE TO vred;
+
+GRANT SB_MAINTENANCE_EMPLOYEE TO pblack;
+GRANT LP_MAINTENANCE_EMPLOYEE TO xcode;
+
+GRANT ELECTRICAL_LEADER TO bwhite;
+GRANT PLUMBER_LEADER TO jparker;
+
+GRANT ELECTRICAL_WORKER TO asmith;
+
+--ROLE HIERARCHY
+--Mountain view
+GRANT MV_OFFICER_EMPLOYEE TO MV_MANAGER;
+GRANT MV_MAINTENANCE_EMPLOYEE TO MV_MANAGER;
+
+--Sunny Beach
+GRANT SB_OFFICER_EMPLOYEE TO SB_MANAGER;
+GRANT SB_MAINTENANCE_EMPLOYEE TO SB_MANAGER;
+
+--Forest Retreat
+GRANT FR_OFFICER_EMPLOYEE TO FR_MANAGER;
+GRANT FR_MAINTENANCE_EMPLOYEE TO FR_MANAGER;
+
+--Lake Paradise
+GRANT LP_OFFICER_EMPLOYEE TO LP_MANAGER;
+GRANT LP_MAINTENANCE_EMPLOYEE TO LP_MANAGER;
+
+GRANT ELECTRICAL_WORKER TO ELECTRICAL_LEADER;
+GRANT PLUMBER_WORKER TO PLUMBER_LEADER;
+GRANT SECURITY_WORKER TO SECURITY_LEADER;
+
+--automatically activate role session for user: go to: utenti database>seleziona utente>modifica>ruoli concessi>cerca ruolo>flag attivo su "impostazione predefinita"
+--REMEMBER: IF THE QUERY DOES NOT WORK,ACTIVATE SESSION ONCE LOG IN WITH USER
+--jdoe
+SET ROLE MV_MANAGER;
+--gstone
+SET ROLE SB_MANAGER;
+--lgreen
+SET ROLE MV_OFFICER_EMPLOYEE;
+--vred
+SET ROLE SB_OFFICER_EMPLOYEE;
+--pblack
+SET ROLE SB_MAINTENANCE_EMPLOYEE;
+--xcode
+SET ROLE LP_MAINTENANCE_EMPLOYEE;
+--bwhite
+SET ROLE ELECTRICAL_LEADER;
+--jparker
+SET ROLE PLUMBER_LEADER;
+--asmith
+SET ROLE ELECTRICAL_WORKER;
