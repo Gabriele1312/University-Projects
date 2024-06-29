@@ -37,7 +37,7 @@ This repository contains a curated selection of academic projects demonstrating 
 
 ## Technologies Used
 
-- **Programming Languages:** R, SQL
+- **Programming Languages:** R, SQL, PL/SQL
 - **Databases:** Oracle
 - **Security Mechanisms:** DAC, RBAC, Oracle Label Security, Oracle VPD
 
