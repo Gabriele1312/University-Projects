@@ -1,4 +1,4 @@
-# 🔬 RESEARCH ABOUT IOT SECURITY AND PRIVACY ISSUES
+# 🛡️IOT SECURITY AND PRIVACY ISSUES
 
 ## ABSTRACT
 IoT systems are characterized by numerous and different devices that handle vast amounts of
