@@ -1,3 +1,6 @@
+### 🔬 RESEARCH ABOUT IOT SECURITY AND PRIVACY ISSUES
+
+## ABSTRACT
 IoT systems are characterized by numerous and different devices that handle vast amounts of
 sensitive information. The heterogeneity and limited computational resources introduce significant
 vulnerabilities, necessitating ad-hoc solution which respect to traditional security measures.
