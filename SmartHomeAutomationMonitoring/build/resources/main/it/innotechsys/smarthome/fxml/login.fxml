@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import org.kordamp.ikonli.javafx.*?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.innotechsys.smarthome.controller.loginController">
+   <AnchorPane prefHeight="500.0" prefWidth="350.0" style="-fx-background-color: #076759;">
+      <Label alignment="CENTER" text="SMART HOME&#10;MONITORING" textAlignment="CENTER" textFill="WHITE" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" text="Innovative Telecommunication&#10;Systems" textAlignment="CENTER" textFill="WHITE" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+   </AnchorPane>
+   <AnchorPane prefHeight="500.0" prefWidth="350.0">
+      <TextField fx:id="tf_username" promptText="Username" style="-fx-background-color: transparent; -fx-border-color: #076759; -fx-border-width: 0px 0px 3px 0px;" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" AnchorPane.topAnchor="200.0" />
+      <PasswordField fx:id="tf_password" promptText="Password" style="-fx-background-color: transparent; -fx-border-color: #076759; -fx-border-width: 0px 0px 3px 0px;" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" AnchorPane.topAnchor="256.0" />
+      <FontIcon iconColor="#076759" iconLiteral="mdi2a-account" iconSize="30" AnchorPane.leftAnchor="48.0" AnchorPane.topAnchor="200.0" />
+      <FontIcon iconColor="#076759" iconLiteral="mdi2k-key" iconSize="30" text="󰌆" AnchorPane.leftAnchor="48.0" AnchorPane.topAnchor="256.0" />
+      <Button layoutX="135.0" layoutY="377.0" mnemonicParsing="false" onAction="#login" prefHeight="40.0" style="-fx-background-color: #076759;" text="Login" textAlignment="CENTER" textFill="WHITE" AnchorPane.bottomAnchor="100.0" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" />
+      <FontIcon iconColor="#076759" iconLiteral="mdi2a-account-group" iconSize="60" text="󰡉" AnchorPane.leftAnchor="145.0" AnchorPane.rightAnchor="145.0" AnchorPane.topAnchor="75.0" />
+      <Label fx:id="l_error" alignment="CENTER" layoutX="122.0" layoutY="321.0" text="Invalid username or password" textAlignment="CENTER" textFill="#ff0707" visible="false" AnchorPane.bottomAnchor="150.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" text="User Login" textFill="#076759" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="135.0">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Label>
+   </AnchorPane>
+</HBox>

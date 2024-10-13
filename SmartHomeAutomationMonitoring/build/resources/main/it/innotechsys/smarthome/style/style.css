@@ -1,0 +1,89 @@
+.my-bg-green {
+    -fx-background-color: #076759;
+}
+
+.my-text-green {
+    -fx-fill: #076759;
+    -fx-font-weight: bold;
+    -fx-font-size: 20;
+}
+
+.my-button {
+    -fx-background-color: #076759;
+    -fx-border-color: #076759;
+    -fx-border-width: 3;
+    -fx-text-fill: white;
+}
+
+.my-button-selected {
+    -fx-background-color: transparent;
+    -fx-border-color: #076759;
+    -fx-border-width: 3;
+    -fx-text-fill: #076759;
+}
+
+.my-textfield {
+    -fx-background-color: transparent;
+    -fx-border-color: #076759;
+    -fx-border-width: 0px 0px 3px 0px;
+}
+
+.my-bordered-pane {
+    -fx-border-color: #076759;
+    -fx-border-width: 2;
+    -fx-border-radius: 8;
+}
+
+.field-error {
+    -fx-border-color: red !important;
+}
+
+.field-to-be-approved {
+    -fx-border-color: purple !important;
+}
+
+.field-info {
+    -fx-border-color: blue !important;
+}
+
+.field-valid {
+    -fx-border-color: green !important;
+}
+
+.tooltip-error {
+    -fx-border-color: red;
+    -fx-border-radius: 10;
+    -fx-border-width: 1.5;
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-font-size: 12;
+    -fx-text-fill: black;
+}
+
+.tooltip-to-be-approved {
+    -fx-border-color: purple;
+    -fx-border-radius: 10;
+    -fx-border-width: 1.5;
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-font-size: 12;
+    -fx-text-fill: black;
+}
+
+.tooltip-info {
+    -fx-border-color: blue;
+    -fx-border-radius: 10;
+    -fx-border-width: 1.5;
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-font-size: 12;
+    -fx-text-fill: black;
+}
+
+/* ALARM */
+.alarm-armed {
+    -fx-background-color: #dc1919;
+    -fx-border-color: #dc1919;
+    -fx-border-width: 3;
+    -fx-text-fill: white;
+}
