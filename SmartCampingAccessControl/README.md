@@ -27,6 +27,6 @@ campsites.
 1. You need to have an **Oracle account** to use the infrastructure
 2. Log in with your credentials. If you do not have an Oracle account, please contact the project developer
 3. Copy and paste the codes contained in the folder `CodeFiles`
-  a. Populate the database with data from this file: `Task1-DB Modelling.sql`
-  b. Implement the Access Control and Oracle features provided in `Task2 - DAC Policy.sql`, `Task3 - RBAC Policy.sql`, `Task4-5 - VPD.sql`
+   * Populate the database with data from this file: `Task1-DB Modelling.sql`
+   * Implement the Access Control and Oracle features provided in `Task2 - DAC Policy.sql`, `Task3 - RBAC Policy.sql`, `Task4-5 - VPD.sql`
 
