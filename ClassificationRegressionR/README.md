@@ -25,7 +25,7 @@ tions.
 **Description**: The focus of this task in to conduct the regression analysis of a dataset asso-
 ciated with the red variants of Portuguese "Vinho Verde" wine. This serves as a comprehensive resource for investigating the relationships between physicochemical attributes and sensory characteristics of the wine.
 
-**Dataset**: The current information set, available from the [UCI machine learning repository](1https://archive.ics.uci.edu/dataset/186/wine+quality) consists of 1599 data points, related to physicochemical properties of the wine.
+**Dataset**: The current information set, available from the [UCI machine learning repository](https://archive.ics.uci.edu/dataset/186/wine+quality) consists of 1599 data points, related to physicochemical properties of the wine.
 
 **Objective**: The primary goal is to employ regression techniques, to analyze
 the dataset and derive models that can predict the quality of wine based
