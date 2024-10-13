@@ -11,7 +11,7 @@ and Digestive and Kidney Diseases. Several constraints were placed on the
 selection of these instances from a larger database. In particular, all patients
 here are females at least 21 years old of Prima Indian Heritage.
 
-**🎯 Objective**: The primary goal is to build a robust predictive models capable of classify-
+**Objective**: The primary goal is to build a robust predictive models capable of classify-
 ing samples into distinct categories; those with and without diabetes. This 
 classification task is crucial for early detection and effective management of
 diabetes, a prevalent health condition with significant public health implica-
@@ -27,7 +27,7 @@ ciated with the red variants of Portuguese "Vinho Verde" wine. This serves as a 
 
 **Dataset**: The current information set, available from the [UCI machine learning repository](https://archive.ics.uci.edu/dataset/186/wine+quality) consists of 1599 data points, related to physicochemical properties of the wine.
 
-**🎯 Objective**: The primary goal is to employ regression techniques, to analyze
+**Objective**: The primary goal is to employ regression techniques, to analyze
 the dataset and derive models that can predict the quality of wine based
 on its physicochemical properties. Be delving into these relationships, the
 regression task aim on understanding the influence of various input features on
