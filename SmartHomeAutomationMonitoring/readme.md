@@ -19,9 +19,9 @@ Before following the execution steps, please **contact the developers** to obtai
   - Connection String: `mongodb://iot:iot@centore.synology.me:27017/`
 
 - Java Application Access:
-On the remote desktop, there is a file named 'SmartHomeIntellij.sh'. Right-click on the file and select 'Run as a program'. IntelliJ IDEA will open. Once the IDE is open, click to 'Run' to start the application.
+On the remote desktop, there is a file named `SmartHomeIntellij.sh`. Right-click on the file and select 'Run as a program'. IntelliJ IDEA will open. Once the IDE is open, click to 'Run' to start the application.
 
-Alternatively, open a terminal, copy and paste the following path: '/opt/idea-IU-242.20224.419/bin/idea'. Once IntelliJ IDEA is open, click on 'Run' to start the application.
+Alternatively, open a terminal, copy and paste the following path: `/opt/idea-IU-242.20224.419/bin/idea`. Once IntelliJ IDEA is open, click on **Run** to start the application.
 
 - Node-RED Connection:
   - Host: `centore.synology.me`
