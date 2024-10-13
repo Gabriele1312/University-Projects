@@ -19,7 +19,7 @@ Welcome to the collection of projects completed during my academic journey. This
 
 This repository contains a curated selection of academic projects demonstrating my skills in various domains such as software development, IoT, data security, and machine learning.
 
-## Year 2022
+## 🗓️ Year 2022
 
 ### Project: Vacciniamo
 
@@ -30,7 +30,7 @@ This repository contains a curated selection of academic projects demonstrating 
 **Technologies:** UML, Java, PostgreSQL.
 
 
-## Year 2023
+## 🗓️ Year 2023
 ### Project: Analysis of Threat Models for Hybrid IoT Systems in Smart Home Scenarios
 
 **Subject:** IoT, Fundamentals of Security.
@@ -44,7 +44,7 @@ This repository contains a curated selection of academic projects demonstrating 
 **Description:** Created classification and regression models using the statistical language R. The project aimed to classify whether a person is predisposed to diabetes and predict wine quality scores based on specific features.
 **Technologies:** R, statistical modeling, classification, regression
 
-## Year 2024
+## 🗓️ Year 2024
 
 ### Project: Access control implementation in a smart camping system
 
@@ -64,7 +64,7 @@ This repository contains a curated selection of academic projects demonstrating 
 **Description:** Project focused on the simulation of usage and real-time monitoring of IoT devices in the smart home domain, with particular attention to process automation.
 **Technologies:** Java, Node-Red, JavaScript, MongoDB, Mosquitto.
 
-## How to Use
+## 🔍 How to Use
 
 To explore the projects:
 
