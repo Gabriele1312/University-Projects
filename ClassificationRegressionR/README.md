@@ -3,7 +3,7 @@ To explore the project in detail, please consult the following file: `Assignment
 
 To get an overview of the objectives and the results achieved, please refer to the following presentation: `INTSYS_Assignment_Report`
 
-## 🍬 Diabetes Classification
+## 🍬 DIABETES CLASSIFICATION
 **Description**: The aim of this task is to conduct a binary classification problem, with R
 language, on a diabetes dataset, employing advanced machine learning models
 to predict the presence or absence of diabetes based on various health-related
@@ -24,7 +24,7 @@ tions.
 1. Random Forest Classifier
 2. Support Vector Machine (SVM)
 
-## 🍷 Wine Quality Regression
+## 🍷 WINE QUALITY REGRESSION
 **Description**: The focus of this task in to conduct the regression analysis of a dataset asso-
 ciated with the red variants of Portuguese "Vinho Verde" wine. This serves as a comprehensive resource for investigating the relationships between physicochemical attributes and sensory characteristics of the wine.
 
