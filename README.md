@@ -21,7 +21,7 @@ This repository contains a curated selection of academic projects demonstrating 
 
 ## 🗓️ Year 2022
 
-### Project: Vacciniamo
+### 💉 Project: Vacciniamo
 
 **Subject:** Programming Laboratory A.
 
@@ -31,35 +31,41 @@ This repository contains a curated selection of academic projects demonstrating 
 
 
 ## 🗓️ Year 2023
-### Project: Analysis of Threat Models for Hybrid IoT Systems in Smart Home Scenarios
+
+### 🛡️ Project: Analysis of Threat Models for Hybrid IoT Systems in Smart Home Scenarios
 
 **Subject:** IoT, Fundamentals of Security.
+
 **Description:** Thesis for Bachelor's Degree in Computer Science. This thesis explores the hybrid analysis of smart home systems, addressing security and efficiency.
+
 **Technologies:** Java, Prolog, TAMELESS.
 
 
-### Project: Diabetes Prediction and Wine Quality
+### 📊 Project: Diabetes Prediction and Wine Quality
 
 **Subject:** Intelligent Systems
-**Description:** Created classification and regression models using the statistical language R. The project aimed to classify whether a person is predisposed to diabetes and predict wine quality scores based on specific features.
+
+**Description:** Created classification and regression models using the statistical language R. The project aimed to classify whether a person is 
+predisposed to diabetes and predict wine quality scores based on specific features.
+
 **Technologies:** R, statistical modeling, classification, regression
 
 ## 🗓️ Year 2024
 
-### Project: Access control implementation in a smart camping system
+### 🛡️ Project: Access control implementation in a smart camping system
 
 **Subject:** Data Security and Privacy
 **Description:** This project controls the backend, developing a secure access control system for smart campings, ensuring user privacy and data protection.
 **Technologies:** Oracle infrastructure, PL/SQL, DAC, RBAC, Oracle Label Security, Oracle VPD
 
 
-### Project: IoT Security and Privacy
+### 🛡️ Project: IoT Security and Privacy
 
 **Subject:** Security Risk Management
 **Description:** Authored a paper focusing on the security and privacy of data in IoT environments, particularly in smart homes. The study provides a comprehensive overview of IoT security requirements, potential vulnerabilities, and types of attacks.
 **Technologies:** IoT, Security Assessment.
 
-### Project: Smart Home Automation & Monitoring
+### 💡 Project: Smart Home Automation & Monitoring
 **Subject:** Innovative Telecommunication Systems
 **Description:** Project focused on the simulation of usage and real-time monitoring of IoT devices in the smart home domain, with particular attention to process automation.
 **Technologies:** Java, Node-Red, JavaScript, MongoDB, Mosquitto.
