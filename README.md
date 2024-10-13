@@ -50,5 +50,6 @@ To explore the projects:
    git clone https://github.com/yourusername/university-projects.git
 2. **Navigate to project directory:**
   ```sh
-      cd University-Projects
+  cd University-Projects
+3. **Have a great journey in discovering the projects completed during my university years**
 
