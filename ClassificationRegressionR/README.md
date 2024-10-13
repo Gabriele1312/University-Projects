@@ -22,10 +22,19 @@ tions.
 2. Support Vector Machine (SVM)
 
 ## 🍷 Wine Quality Regression
-**Description**: 
+**Description**: The focus of this task in to conduct the regression analysis of a dataset asso-
+ciated with the red variants of Portuguese "Vinho Verde" wine. This serves as a comprehensive resource for investigating the relationships between physicochemical attributes and sensory characteristics of the wine.
 
-**Dataset**: 
+**Dataset**: The current information set, available from the [UCI machine learning repository](1https://archive.ics.uci.edu/dataset/186/wine+quality) consists of 1599 data points, related to physicochemical properties of the wine.
 
-**Objective**: 
+**Objective**: The primary goal is to employ regression techniques, to analyze
+the dataset and derive models that can predict the quality of wine based
+on its physicochemical properties. Be delving into these relationships, the
+regression task aim on understanding the influence of various input features on
+the sensory output, and ultimately, finding optimal coefficients that result in
+models capable of accurately predicting the final evaluation of the dependent
+variable.
 
-**Classification Models**
+**Classification Models**:
+1. K-Nearest Neighbors Regression (KNN)
+2. Ridge Regression
