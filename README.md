@@ -1,4 +1,4 @@
-# University Projects Collection
+# 💻 University Projects Collection
 
 Welcome to the collection of projects completed during my academic journey. This repository showcases a variety of projects developed across different courses and topics.
 
