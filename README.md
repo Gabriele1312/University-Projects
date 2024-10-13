@@ -83,5 +83,6 @@ To explore the projects:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/Gabriele1312/University-Projects.git
-2. **Navigate to project directory:**
+2. **Navigate to project directory**
 3. **For each project, follow the instructions in the** `readme.md` **file for correclty setup and run the code**
+4. **Enjoy**
