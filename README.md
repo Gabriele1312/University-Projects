@@ -2,7 +2,7 @@
 
 Welcome to the collection of projects completed during my academic journey. This repository showcases a variety of projects developed across different courses and topics.
 
-# Table of Contents
+# [![Table of Contents](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/book-open.svg)](#table-of-contents) Table of Contents
 - [1. Introduction](#1-introduction)
 - [2. Year 2022](#2-year-2022)
   - [2.1 Project: Vacciniamo](#21-project-vacciniamo)
