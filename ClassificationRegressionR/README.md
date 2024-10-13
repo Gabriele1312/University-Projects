@@ -1,4 +1,4 @@
-# 📊 Diabetes Prediction and Wine Quality
+# 📊 DIABETES PREDICTION AND WINE QUALITY
 To explore the project in detail, please consult the following file: `Assignment_Report_Sassi`
 
 To get an overview of the objectives and the results achieved, please refer to the following presentation: `INTSYS_Assignment_Report`
