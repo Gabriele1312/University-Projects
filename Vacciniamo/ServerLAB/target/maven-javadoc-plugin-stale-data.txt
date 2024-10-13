@@ -1,0 +1,81 @@
+/app/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.5.v20221102-0933/jre/bin/javadoc
+@options
+@argfile
+-classpath
+'/home/aldoademi/.m2/repository/org/postgresql/postgresql/42.2.20/postgresql-42.2.20.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'ServerLAB 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ServerLAB 1.0-SNAPSHOT API'
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ServerMain.java'
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ModelInterface.java'
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/Controller.java'
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ModelImpl.java'
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ViewInterface.java'
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/SkeletonInterface.java'
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/EsecutoreQuery.java'
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/DataBaseConnessione.java'
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/Colori.java'
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ServerWorker.java'
+'/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ServerGUI.java'
+/home/aldoademi/.m2/repository/org/postgresql/postgresql/42.2.20/postgresql-42.2.20.jar = 1667560426394
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ServerMain.java = 1672849955327
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ModelInterface.java = 1672849955335
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/Controller.java = 1672849955471
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ModelImpl.java = 1672849955339
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ViewInterface.java = 1672849955315
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/SkeletonInterface.java = 1672849955319
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/EsecutoreQuery.java = 1673600238583
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/DataBaseConnessione.java = 1672849955467
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/Colori.java = 1672849955475
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ServerWorker.java = 1672849955323
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java/ServerGUI.java = 1672849955331
+/home/aldoademi/Scrivania/LabB/ServerLAB/src/main/java = 1672511930645
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/tag-search-index.js = 1673600422891
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/script.js = 1673600422911
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/help-doc.html = 1673600422907
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/ModelInterface.html = 1673600422699
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/module-search-index.js = 1673600422887
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/package-tree.html = 1673600422823
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/package-use.html = 1673600422867
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/index-all.html = 1673600422903
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/jquery-ui.overrides.css = 1673600422915
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/DataBaseConnessione.html = 1673600422639
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/type-search-index.js = 1673600422891
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/index.html = 1673600422907
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/allpackages-index.html = 1673600422887
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/ServerGUI.html = 1673600422767
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/package-search-index.js = 1673600422891
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/element-list = 1673600422811
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/SkeletonInterface.html = 1673600422807
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/member-search-index.js = 1673600422891
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/overview-tree.html = 1673600422871
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/ViewInterface.html = 1673600422807
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/stylesheet.css = 1673600422911
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/Colori.html = 1673600422587
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/ModelImpl.html = 1673600422699
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/ServerMain.html = 1673600422771
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/Controller.html = 1673600422607
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/allclasses-index.html = 1673600422887
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/ServerWorker.html = 1673600422783
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/search.js = 1673600422911
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/EsecutoreQuery.html = 1673600422687
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/package-summary.html = 1673600422815
+/home/aldoademi/Scrivania/LabB/ServerLAB/target/apidocs/serialized-form.html = 1673600422839
