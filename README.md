@@ -56,7 +56,7 @@ predisposed to diabetes and predict wine quality scores based on specific featur
 
 **Subject:** Data Security and Privacy
 
-**Description:** This project controls the backend, developing a secure access control system for smart campings, ensuring user privacy and data protection.
+**Description:** Developed a backend and database management system for controlling access in a smart camping scenario. The system manages and controls data for an organization comprising multiple campsites, including maintenance, customer reservations, and staff management.
 
 **Technologies:** Oracle infrastructure, PL/SQL, DAC, RBAC, Oracle Label Security, Oracle VPD
 
