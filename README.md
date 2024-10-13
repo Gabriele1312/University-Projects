@@ -1,88 +1,76 @@
-# 💻 University Projects Collection
+# Progetto Vacciniamo 
+Corso di Laboratorio interdisciplinare B, Laurea Triennale in Informatica presso Università degli Studi dell'Insubria con sede a Varese.
 
-Welcome to the collection of projects completed during my academic journey. This repository showcases a variety of projects developed across different courses and topics.
+PROGETTO REALIZZATO DA:
 
-# 📚 Table of Contents
-- [1. Introduction](#1-introduction)
-- [2. Year 2022](#2-year-2022)
-  - [2.1 Project: Vacciniamo](#21-project-vacciniamo)
-- [3. Year 2023](#3-year-2023)
-  - [3.1 Project: Analysis of Threat Models for Hybrid IoT Systems in Smart Home Scenarios](#31-project-analysis-of-threat-models-for-hybrid-iot-systems-in-smart-home-scenarios)
-  - [3.2 Project: Diabetes Prediction and Wine Quality](#32-project-diabetes-prediction-and-wine-quality)
-- [4. Year 2024](#4-year-2024)
-  - [4.1 Project: Access Control Implementation in a Smart Camping System](#41-project-access-control-implementation-in-a-smart-camping-system)
-  - [4.2 Project: IoT Security and Privacy](#42-project-iot-security-and-privacy)
-  - [4.3 Project: Smart Home Automation & Monitoring](#43-project-smart-home-automation--monitoring)
-- [5. How to Use](#5-how-to-use)
-
-## Introduction
-
-This repository contains a curated selection of academic projects demonstrating my skills in various domains such as software development, IoT, data security, and machine learning.
-
-## 🗓️ Year 2022
-
-### 💉 Project: Vacciniamo
-
-**Subject:** Programming Laboratory A.
-
-**Description:** A project focusing on developing a vaccination management system, enhancing skills in programming, socket, database and software development.
-
-**Technologies:** UML, Java, PostgreSQL.
+1. ADEMI QALDO, matricola `746362` [qademi@studenti.uninsubria.it](mailto:qademi@studenti.uninsubria.it)
+2. BATTAGLIA SIMONE, matricola `744514`[sbattaglia2@studenti.uninsubria.it](mailto:sbattaglia2@studenti.uninsubria.it)
+3. BRULLO ENRICO, matricola `744949` [ebrullo@studenti.uninsubria.it](mailto:ebrullo@studenti.uninsubria.it)
+4. SASSI GABRIELE. matricola `745081` [gsassi2@studenti.uninsubria.it](mailto:gsassi2@studenti.uninsubria.it)
+---------------------------------------------------------------------------
 
 
-## 🗓️ Year 2023
+## Vacciniamo
+```
+Il funzionamento generale dell’applicazione consiste in un semplice software in grado di gestire la campagna vaccinale COVID-19. 
+In particolare, gli operatori vaccinali possono amministrare il form dedicato all’aggiornamento dello stato delle vaccinazioni. 
+I cittadini possono visualizzare informazioni sull’andamento della campagna vaccinale attraverso la propria area personale sono in grado di gestire funzionalità riguardanti la propria vaccinazione.
+```
+---------------------------------------------------------------------------
 
-### 🛡️ Project: Analysis of Threat Models for Hybrid IoT Systems in Smart Home Scenarios
+## REQUISITI DI SISTEMA
 
-**Subject:** IoT, Fundamentals of Security.
+Per poter eseguire l'applicazione è necessario aver installato sul proprio computer:
 
-**Description:** Thesis for Bachelor's Degree in Computer Science. This thesis explores the hybrid analysis of smart home systems, addressing security and efficiency.
+* `Java 8;`
+* `PostgreSQL (solo per terminali server);`
+* `Maven (per compilare da sorgente);`
+* `Risoluzione: 1280 x 720 pixel o superiore;`
+* `RAM: 4GB o superiore;`
+* `Spazio su disco disponibile: 2GB o superiore;`
+* `Processore: 1GHz o superiore;`
+* `Connessione Internet stabile.`
 
-**Technologies:** Java, Prolog, TAMELESS.
+**Sistema Operativo minimo richiesto**
 
+* `Windows 10 e versioni successive.`
+* `Ubuntu Linux 14.x e versioni successive.`
+* `Mac OS X.`
+---------------------------------------------------------------------------
 
-### 📊 Project: Diabetes Prediction and Wine Quality
+## Installazione del programma
+```
+L'applicazione non necessita di installazione: Per l'esecuzione dell'applicazione avviare direttamente ServerLAB-1.0-SNAPSHOT.jar e ClientLAB-1.0-SNAPSHOT.jar.
+```
 
-**Subject:** Intelligent Systems
+### Avviare l'applicazione 
+Dopo aver scaricato ed estratto il file **.zip**, seguire i seguenti passaggi:
 
-**Description:** Created classification and regression models using the statistical language R. The project aimed to classify whether a person is 
-predisposed to diabetes and predict wine quality scores based on specific features.
+Per avviare l'applicazione fare doppio click sul file nella cartella `target/`del modulo che si vuole eseguire:
 
-**Technologies:** R, statistical modeling, classification, regression
+* `ServerLAB-1.0-SNAPSHOT.jar` se si vuole usare l'applicazione **Server**;
+* `ClientLAB-1.0-SNAPSHOT.jar` se si vuole usare l'applicazione **Client**.
 
-## 🗓️ Year 2024
+se lanciando direttamente gli eseguibili si riscontrano problemi, in alternativa è possibile avviare il programma da terminale, con i seguenti comandi in base al sistema operativo: 
 
-### 🛡️ Project: Access control implementation in a smart camping system
+**WINDOWS**
+* `cd {nome del percorso in cui è presente il file Server .jar}`;
+* `\java -jar ServerLAB-1.0-SNAPSHOT.jar`, per avviare il jar. 
 
-**Subject:** Data Security and Privacy
+* `cd {nome del percorso in cui è presente il file Client .jar}`;
+* `\java -jar ClientLAB-1.0-SNAPSHOT.jar`, per avviare il jar. 
 
-**Description:** Developed a backend and database management system for controlling access in a smart camping scenario. The system manages and controls data for an organization comprising multiple campsites, including maintenance, customer reservations, and staff management.
+**MAC OS**
+* `cd {nome del percorso in cui è presente il file Server .jar}`;
+* `chmod +x ServerLAB-1.0-SNAPSHOT .jar`, per aggiungere permessi al file
+* `java -jar ServerLAB-1.0-SNAPSHOT .jar`, per avviare il jar.
 
-**Technologies:** Oracle infrastructure, PL/SQL, DAC, RBAC, Oracle Label Security, Oracle VPD
+* `cd {nome del percorso in cui è presente il file Client .jar}`;
+* `chmod +x ClientLAB-1.0-SNAPSHOT .jar`, per aggiungere permessi al file;
+* `java -jar ClientLAB-1.0-SNAPSHOT .jar`, per avviare il jar.
+---------------------------------------------------------------------------
 
+## Extra
+L'esecuzione dell'applicazione è supportata dal Manuale Utente, il file `pdf` può essere scaricato e visionato recandosi presso la cartella `documentazione/`.
 
-### 🛡️ Project: IoT Security and Privacy
-
-**Subject:** Security Risk Management
-
-**Description:** Authored a paper focusing on the security and privacy of data in IoT environments, particularly in smart homes. The study provides a comprehensive overview of IoT security requirements, potential vulnerabilities, and types of attacks.
-
-**Technologies:** IoT, Security Assessment.
-
-### 💡 Project: Smart Home Automation & Monitoring
-**Subject:** Innovative Telecommunication Systems
-
-**Description:** Project focused on the simulation of usage and real-time monitoring of IoT devices in the smart home domain, with particular attention to process automation.
-
-**Technologies:** Java, Node-Red, JavaScript, MongoDB, Mosquitto.
-
-## 🔍 How to Use
-
-To explore the projects:
-
-1. **Clone the repository:**
-   ```sh
-    git clone https://github.com/Gabriele1312/University-Projects.git
-2. **Navigate to project directory:**
-  ```sh
-    cd University-Projects
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
