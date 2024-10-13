@@ -2,6 +2,22 @@
 
 Before following the execution steps, please **contact the developers** to obtain any additional information necessary for full functionality. 
 
+# 📚 TABLE OF CONTENTS
+
+- [PROJECT INFORMATION](#-project-information)
+  - [OVERVIEW](#overview)
+  - [USAGE](#usage)
+  - [FUNCTIONALITIES](#functionalities)
+  
+- [PROJECT SETUP ENVIRONMENT DETAILS](#-project-setup-environment-details)
+  - [REQUIREMENTS](#requirements)
+  - [INSTALLATION](#installation)
+  - [REMOTE CONNECTION](#remote-connection)
+  - [SYSTEM ACCESS CREDENTIAL](#system-access-credential)
+  - [APPLICATION ACCESS CREDENTIAL](#application-access-credential)
+  
+- [AUTHORS](#-authors)
+
 ## 🔍 PROJECT INFORMATION
 
 ### OVERVIEW
