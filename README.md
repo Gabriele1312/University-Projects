@@ -3,17 +3,17 @@
 Welcome to the collection of projects completed during my academic journey. This repository showcases a variety of projects developed across different courses and topics.
 
 # 📚 Table of Contents
-- [1. Introduction](#1-introduction)
-- [2. Year 2022](#2-year-2022)
-  - [2.1 Project: Vacciniamo](#21-project-vacciniamo)
-- [3. Year 2023](#3-year-2023)
-  - [3.1 Project: Analysis of Threat Models for Hybrid IoT Systems in Smart Home Scenarios](#31-project-analysis-of-threat-models-for-hybrid-iot-systems-in-smart-home-scenarios)
-  - [3.2 Project: Diabetes Prediction and Wine Quality](#32-project-diabetes-prediction-and-wine-quality)
-- [4. Year 2024](#4-year-2024)
+- [1. Introduction](#-introduction)
+- [2. Year 2022](#-year-2022)
+  - [2.1 Project: Vacciniamo](#-project-vacciniamo)
+- [3. Year 2023](#-year-2023)
+  - [3.1 Project: Analysis of Threat Models for Hybrid IoT Systems in Smart Home Scenarios](#-project-analysis-of-threat-models-for-hybrid-iot-systems-in-smart-home-scenarios)
+  - [3.2 Project: Diabetes Prediction and Wine Quality](#-project-diabetes-prediction-and-wine-quality)
+- [4. Year 2024](#-year-2024)
   - [4.1 Project: Access Control Implementation in a Smart Camping System](#41-project-access-control-implementation-in-a-smart-camping-system)
-  - [4.2 Project: IoT Security and Privacy](#42-project-iot-security-and-privacy)
-  - [4.3 Project: Smart Home Automation & Monitoring](#43-project-smart-home-automation--monitoring)
-- [5. How to Use](#5-how-to-use)
+  - [4.2 Project: IoT Security and Privacy](#-project-iot-security-and-privacy)
+  - [4.3 Project: Smart Home Automation & Monitoring](#-project-smart-home-automation--monitoring)
+- [5. How to Use](#-how-to-use)
 
 ## Introduction
 
