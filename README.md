@@ -55,19 +55,25 @@ predisposed to diabetes and predict wine quality scores based on specific featur
 ### 🛡️ Project: Access control implementation in a smart camping system
 
 **Subject:** Data Security and Privacy
+
 **Description:** This project controls the backend, developing a secure access control system for smart campings, ensuring user privacy and data protection.
+
 **Technologies:** Oracle infrastructure, PL/SQL, DAC, RBAC, Oracle Label Security, Oracle VPD
 
 
 ### 🛡️ Project: IoT Security and Privacy
 
 **Subject:** Security Risk Management
+
 **Description:** Authored a paper focusing on the security and privacy of data in IoT environments, particularly in smart homes. The study provides a comprehensive overview of IoT security requirements, potential vulnerabilities, and types of attacks.
+
 **Technologies:** IoT, Security Assessment.
 
 ### 💡 Project: Smart Home Automation & Monitoring
 **Subject:** Innovative Telecommunication Systems
+
 **Description:** Project focused on the simulation of usage and real-time monitoring of IoT devices in the smart home domain, with particular attention to process automation.
+
 **Technologies:** Java, Node-Red, JavaScript, MongoDB, Mosquitto.
 
 ## 🔍 How to Use
