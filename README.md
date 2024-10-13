@@ -24,7 +24,9 @@ This repository contains a curated selection of academic projects demonstrating 
 ### Project: Vacciniamo
 
 **Subject:** Programming Laboratory A.
+
 **Description:** A project focusing on developing a vaccination management system, enhancing skills in programming, socket, database and software development.
+
 **Technologies:** UML, Java, PostgreSQL.
 
 
