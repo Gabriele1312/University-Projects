@@ -5,7 +5,7 @@ Before following the execution steps, please **contact the developers** to obtai
 ## 🔍 PROJECT INFORMATION
 
 ### OVERVIEW
-This project is designed to manage and monitor a smart home environment, providing device automation and energy consumption monitoring. It was developed and tested on a Raspberry Pi.
+This project is designed to manage and monitor a smart home environment, providing device automation and energy consumption monitoring. It was developed and tested on a Raspberry Pi. To explore the project in detail, please consult the following file: `IoT_Project_Sassi_Centore`
 
 ### USAGE
 - This system allows for smart home device management, energy consumption monitoring, and automation rule setup.
