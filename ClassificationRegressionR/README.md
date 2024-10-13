@@ -1,4 +1,5 @@
 # 📊 Diabetes Prediction and Wine Quality
+To explore the project in detail, please consult the following file: `IoT_Project_Sassi_Centore`
 
 ## 🍬 Diabetes Classification
 **Description**: The aim of this task is to conduct a binary classification problem, with R
