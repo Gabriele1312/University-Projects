@@ -18,6 +18,7 @@ Before following the execution steps, please **contact the developers** to obtai
   
 - [AUTHORS](#-authors)
 
+---
 ## 🔍 Project Information
 
 ### Overview
@@ -33,7 +34,7 @@ This project is designed to manage and monitor a smart home environment, providi
 * Automated HVAC Control
 * Alarm and Intrusion Detection System
 * Energy Consumption Monitoring
-
+---
 ### 📝 Project Setup Environment Details
 
 ### Requirements
