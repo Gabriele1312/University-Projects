@@ -1,7 +1,7 @@
 # 🛡️ACCESS CONTROL IMPLEMENTATION IN A SMART HOME CAMPING SYSTEM
 To explore the project in detail, please consult the following file: `Project_Final_Report`
 
-## 🔍OVERVIEW
+## 🔍 Overview
 The project is designed to implement an access control system for a smart
 camping management system. The project aims to establish a robust access
 control mechanism for an organization that oversees multiple campsites within
@@ -12,18 +12,18 @@ user roles and departments within the organization. This implementation
 enhances the security and operational efficiency of managing a network of
 campsites.
 
-## ✅FUNCTIONALITIES
+## ✅ Functionalities
 * Administrative management
 * Operational organization
 * Reservation System
 
-## 🔒SECURITY ENFORCEMENT MECHANISM
+## 🔒 Security Enforcement Mechanisms
 * **DAC** - Discretional Access Control
 * **RBAC** - Role Based Access Control
 * **FGAC** - Fine Grained Access Control, with **OracleVPD**
 * **OLS** - Oracle Label Security
 
-## 📋HOW TO USE
+## 📋 How to use
 1. You need to have an **Oracle account** to use the infrastructure
 2. Log in with your credentials. If you do not have an Oracle account, please contact the project developer
 3. Copy and paste the codes contained in the folder `CodeFiles`
