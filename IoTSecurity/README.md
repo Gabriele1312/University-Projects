@@ -10,3 +10,6 @@ clearly demonstrates that while numerous best practices and solutions for enhanc
 and privacy exists, with significant advancements in security protocols, encryption methods, and
 intrusion detection systems; there is no single, unified, and well-defined approach that
 comprehensively addresses cyber, physical and human aspects.
+
+## Paper
+The paper is available here: [link to your paper].
