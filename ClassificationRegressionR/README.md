@@ -3,6 +3,7 @@ To explore the project in detail, please consult the following file: `Assignment
 
 To get an overview of the objectives and the results achieved, please refer to the following presentation: `INTSYS_Assignment_Report`
 
+---
 ## 🍬 Diabetes classification
 **Description**: The aim of this task is to conduct a binary classification problem, with R
 language, on a diabetes dataset, employing advanced machine learning models
