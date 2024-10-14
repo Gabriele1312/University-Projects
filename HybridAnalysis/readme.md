@@ -3,7 +3,7 @@
 ## 🔍 Overview
 L'avanzamento delle nuove tecnologie ha portato ad un'enorme diffusione dei
 dispositivi smart, che sono diventati sempre più accessibili e convenienti per
-lŠutilizzo quotidiano, integrandosi rapidamente nei diversi livelli di società.
+l'utilizzo quotidiano, integrandosi rapidamente nei diversi livelli di società.
 Internet of Things, punto di congiunzione tra il mondo fisico e quello digitale,
 si è imposto come paradigma chiave alla base dei sistemi smart. Tuttavia,
 l'aumento di questi dispositivi connessi in rete ha portato anche ad un au-
