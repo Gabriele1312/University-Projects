@@ -4,19 +4,19 @@ Before following the execution steps, please **contact the developers** to obtai
 
 # 📚 Table of contents 
 
-- [PROJECT INFORMATION](#-project-information)
-  - [OVERVIEW](#overview)
-  - [USAGE](#usage)
-  - [FUNCTIONALITIES](#functionalities)
+- [Poject Information](#-project-information)
+  - [Overview](#overview)
+  - [Usage](#usage)
+  - [Functionalities](#functionalities)
   
-- [PROJECT SETUP ENVIRONMENT DETAILS](#-project-setup-environment-details)
-  - [REQUIREMENTS](#requirements)
-  - [INSTALLATION](#installation)
-  - [REMOTE CONNECTION](#remote-connection)
-  - [SYSTEM ACCESS CREDENTIAL](#system-access-credential)
-  - [APPLICATION ACCESS CREDENTIAL](#application-access-credential)
+- [Project Setup Environment Details](#-project-setup-environment-details)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+  - [Remote Connection](#remote-connection)
+  - [System Access Credentials](#system-access-credential)
+  - [Application Access Credentials](#application-access-credential)
   
-- [AUTHORS](#-authors)
+- [Authors](#-authors)
 
 ---
 ## 🔍 Project Information
