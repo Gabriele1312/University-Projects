@@ -23,7 +23,7 @@ tions.
 **Classification Models**:
 1. Random Forest Classifier
 2. Support Vector Machine (SVM)
-
+---
 ## 🍷 Wine quality regression
 **Description**: The focus of this task in to conduct the regression analysis of a dataset asso-
 ciated with the red variants of Portuguese "Vinho Verde" wine. This serves as a comprehensive resource for investigating the relationships between physicochemical attributes and sensory characteristics of the wine.
