@@ -1,6 +1,6 @@
 # 🛡️ IOT SECURITY AND PRIVACY
 
-## ABSTRACT
+## Abstract
 IoT systems are characterized by numerous and different devices that handle vast amounts of
 sensitive information. The heterogeneity and limited computational resources introduce significant
 vulnerabilities, necessitating ad-hoc solution which respect to traditional security measures.
