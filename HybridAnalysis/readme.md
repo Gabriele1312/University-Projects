@@ -14,14 +14,14 @@ ad avanzare, insieme alla quantità di dispositivi IoT connessi in rete.
 ## 🏆 Obiettivo
 Lo scopo di questo lavoro di tesi è condurre una threat analysis derivante da
 un threat model, applicando tale approccio ad uno scenario IoT in ambito
-smart home. In particolare, si cercherà, attraverso TAMELESS, un tool di
+smart home. In particolare, si cercherà, attraverso [TAMELESS](https://github.com/FulvioValenza/TAMELESS), un tool di
 valutazione delle vulnerabilità per sitemi ibridi, di identiĄcare le minacce alla
 sicurezza associate allŠuso di dispositivi IoT in una casa domotica, analizzare i
 rischi derivanti dalle minacce identiĄcate e deĄnire delle possibili contromisure
 per mitigare i rischi e proteggere i dati personali.
 
 ## 📁 Strumenti e materiali
-* Tool utilizzato ai fini dell' analisi ibrida delle minacce:
+* Tool utilizzato ai fini dell' analisi ibrida delle minacce: 
 * Threat model e Threat analysis in ambito smart home:
 * Report completo e valutazioni:
 * Riassunto del lavoro di tesi: 
