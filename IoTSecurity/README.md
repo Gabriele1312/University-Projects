@@ -12,4 +12,4 @@ intrusion detection systems; there is no single, unified, and well-defined appro
 comprehensively addresses cyber, physical and human aspects.
 
 ## Paper
-The paper is available here: [link to your paper].
+The paper is available here: [[IoT_Security_Privacy](https://github.com/Gabriele1312/University-Projects/blob/main/IoTSecurity/Sassi%20-%20IoT%20security%20issues.pdf)].
