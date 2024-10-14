@@ -49,24 +49,23 @@ This project is designed to manage and monitor a smart home environment, providi
 4. Access Node-RED and the dashboard through the respective URLs.
 
 ### Remote Connection
-- Remote Desktop Connection:
+- **Remote Desktop Connection:**
   - Host: `centore.synology.me`
   - Port (if necessary): `3389`
   - Note: Remote desktop connection is essential for testing and managing the project.
 
-- MongoDB Connection via MongoDB Compass:
+- **MongoDB Connection via MongoDB Compass:**
   - Connection String: `mongodb://iot:iot@centore.synology.me:27017/`
 
-- Java Application Access:
-On the remote desktop, there is a file named `SmartHomeIntellij.sh`. Right-click on the file and select 'Run as a program'. IntelliJ IDEA will open. Once the IDE is open, click to 'Run' to start the application.
+- **Java Application Access:**
+  - On the remote desktop, there is a file named `SmartHomeIntellij.sh`. Right-click on the file and select 'Run as a program'. IntelliJ IDEA will open. Once the IDE is open, click to 'Run' to start the application.
+  - Alternatively, open a terminal, copy and paste the following path: `/opt/idea-IU-242.20224.419/bin/idea`. Once IntelliJ IDEA is open, click on **Run** to start the application.
 
-Alternatively, open a terminal, copy and paste the following path: `/opt/idea-IU-242.20224.419/bin/idea`. Once IntelliJ IDEA is open, click on **Run** to start the application.
-
-- Node-RED Connection:
+- **Node-RED Connection:**
   - Host: `centore.synology.me`
   - Port: `1880`
 
-- Node-RED Dashboard Access:
+- **Node-RED Dashboard Access:**
   - URL: `centore.synology.me:1880/ui`
 
 ### System Access Credentials
